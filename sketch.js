@@ -6,7 +6,7 @@ function preload() {
 }
 
 function setup() {
-  createARCanvas(400, 400, P2D, { scale: 2, markerId: 3 });
+  createARCanvas(400, 400, P2D, { scale: 2, markerId: 4 });
 }
 
 function draw() {
